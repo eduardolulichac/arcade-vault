@@ -16,16 +16,11 @@ npx skills@latest add Klerith/fernando-skills
 
 Neither the `/spec` directories nor the skill files exist in the repo yet — check for them before assuming the workflow is set up.
 
-## Commands
-
-```bash
-npm run dev     # start the dev server (also regenerates AGENTS.md — see below)
-npm run build   # production build
-npm run start   # run the production build
-npm run lint    # eslint (flat config, eslint.config.mjs)
-```
-
 There is no test runner configured yet.
+
+## Skills
+
+Always use  /frontend-desing to design user interfaces.
 
 ## Architecture notes
 

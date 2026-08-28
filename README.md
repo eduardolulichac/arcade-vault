@@ -15,4 +15,11 @@ https://github.com/Klerith/fernando-skills
 npx skills@latest add Klerith/fernando-skills
 ```
 
-## Hello world
+## Commands
+
+```bash
+npm run dev     # start the dev server (also regenerates AGENTS.md — see below)
+npm run build   # production build
+npm run start   # run the production build
+npm run lint    # eslint (flat config, eslint.config.mjs)
+```
